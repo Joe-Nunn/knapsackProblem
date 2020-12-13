@@ -1,0 +1,1 @@
+Using a genetic algorithm determines a collection of items that provides the most utility while being under a weight limit of 500kg from 100 items defined in the compiled class Problem2Test provided to me by my University Lecturers.
